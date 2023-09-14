@@ -1,9 +1,6 @@
-| [![Diram Bora](https://img.shields.io/badge/sylvester-paul-David-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=dirambora&color=green) | ![Followers](https://img.shields.io/github/followers/dirambora) | ![Stars](https://img.shields.io/github/stars/dirambora?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
+### Hi there, I'm Sylvester 👋
 
-
-
-### Hi there 👋
+<b>BIO</b><br>
 - 🔭 I’m currently working on a Mobile Application Using the Flutter Frameork.
 - 🌱 I’m currently learning Web3, Clean architecture and Connecting Platform Specific code with Flutter.
 - 👯 I’m looking to collaborate on basically anything Tech related...
