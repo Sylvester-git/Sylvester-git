@@ -1,4 +1,5 @@
- ![Sylvester Paul](https://img.shields.io/badge/sylvester-paul-David?style=social&logo=github
+ ![Sylvester Paul](https://img.shields.io/badge/sylvester-paul-David?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FSylvester-git%2F
+
 )
 
 ### Hi there, I'm Sylvester 👋
