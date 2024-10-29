@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvester-git" alt="sylvester-git" /></a> </p>
 
-- 🌱 I’m currently learning DevOps with **Go,GitHuba actions and Docker**
+- 🌱 I’m currently learning DevOps with **Go,GitHub actions and Docker**
 
 - 💬 Ask me about **Flutter, Dart, Mobile development and web development (Flutter).**
 
