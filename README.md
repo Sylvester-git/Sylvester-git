@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvester-git" alt="sylvester-git" /></a> </p>
 
-- 🌱 I’m currently learning DevOps with **Go,GitHub actions and Docker**
+- 🌱 I’m currently learning Mobile DevSecOps and Backend Engineering with **GitHub actions, Codemagic, Sentry, Python, Dart frog and more..**
 
-- 💬 Ask me about **Software engineering, Flutter, Dart, Mobile development.**
+- 💬 Ask me about **Flutter, Dart, Mobile app development**
 
 - 📫 How to reach me **ebinehitasylvester@gmail.com**
 
@@ -16,6 +16,11 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ebinehita-sylvester-paul-1176ab221?utm_source=share&utm_campaign=share_via&utm_content=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebinehita-sylvester-paul-1176ab221" height="30" width="40" /></a>
+
+<a href="https://twitter.com/Spauldav" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" alt="X" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
