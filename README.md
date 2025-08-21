@@ -9,6 +9,9 @@
   logo=supabase&logoColor=white">
 </div>
 
+## 📄 Resume
+[⬇️ Download My Resume](./resume.pdf)
+
 ## 👋🏽 About Me
 I am a Mobile Software Engineer based in Lagos, Nigeria. I create and develop cross-platform full-stack mobile applications with clean architecture, modular and efficient code and intuitive user interfaces.
 
