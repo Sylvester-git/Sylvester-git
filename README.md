@@ -53,15 +53,6 @@ I am a Mobile Software Engineer based in Lagos, Nigeria. I create and develop cr
 - Problem-solving & Critical Thinking
 - Time Management & Organization
 
-## 🚀 Professional Experience
-
-### CTO Mobile Developmet/Snr Mobile Engineer | EasySpend | Lagos, Nigeria
-*January 2025 - Present*
-
-- Led the mobile development team, consistently meeting project deadlines and cultivating a high-performance team culture.
-- Designed and build intuitive UI and animations, driving an increase in user engagement and retention.
-- Cut down on production deployment time by 90% and hotfix deployment time by 85%  by leveraging mobile DevOps tools.
-
 ## 🎓 Education
 
 **Bachelor of Engineering in Mechatronics Engineeing**
